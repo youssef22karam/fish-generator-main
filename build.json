@@ -1,0 +1,26 @@
+{
+  "template": "index.template.html",
+  "css": "css/style.css",
+  "app": [
+    "js/app.part01.js",
+    "js/app.part02.js",
+    "js/app.part03.js",
+    "js/app.part04.js",
+    "js/app.part05.js",
+    "js/app.part06.js",
+    "js/app.part07.js",
+    "js/app.part08.js",
+    "js/app.part09.js",
+    "js/app.part10.js",
+    "js/app.part11.js",
+    "js/app.part12.js",
+    "js/app.part13.js",
+    "js/app.part14.js",
+    "js/app.part15.js",
+    "js/app.part16.js",
+    "js/app.part17.js",
+    "js/app.part18.js",
+    "js/app.part19.js"
+  ],
+  "output": "dist/Fish_generator_v10.html"
+}
